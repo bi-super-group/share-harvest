@@ -5,7 +5,7 @@
 git clone https://github.com/CKTim/BlueTooth.git（https://github.com/CKTim/BlueTooth.git替换成远程库的地址）
 ```
 ### 进入到克隆下来的文件夹share-harvest下，添加自己的分享
-### 点击右键，选择Git Bash Here，一次输入一下指令
+### 点击右键，选择Git Bash Here，依次输入以下指令
 ```
 git add .        （注：别忘记后面的.，此操作是把Test文件夹下面的文件都添加进来）
 ```
