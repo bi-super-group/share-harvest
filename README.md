@@ -4,7 +4,7 @@
 
 ### 把github上面的仓库克隆到本地
 ```
-git clone https://github.com/CKTim/BlueTooth.git（https://github.com/CKTim/BlueTooth.git替换成远程库的地址）
+git clone https://github.com/bi-super-group/share-harvest.git
 ```
 ### 进入到克隆下来的文件夹share-harvest下，添加自己的分享
 ### 点击右键，选择Git Bash Here，依次输入以下指令
